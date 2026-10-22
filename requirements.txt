@@ -1,0 +1,5 @@
+# Direct dependencies of the supplied script.
+# Versions are not locked: validate runtime compatibility before pinning.
+mcp
+yt-dlp
+youtube-transcript-api
